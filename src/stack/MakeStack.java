@@ -16,7 +16,7 @@ public class MakeStack<T> {
         if (array.isEmpty()) {
             return null;
         }
-        return array.remove(size-1);
+        return array.remove(size - 1);
     }
 
     public static void main(String[] args) {
