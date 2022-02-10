@@ -1,8 +1,6 @@
 // node 직접 만드려니까 겁나 헷갈림.............
 
-package linkedlist;
-
-import java.util.Objects;
+package datastructure.linkedlist;
 
 public class SingleLinkedList<T> {
     public Node<T> head = null;

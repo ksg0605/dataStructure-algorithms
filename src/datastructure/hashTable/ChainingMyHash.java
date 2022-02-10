@@ -1,4 +1,4 @@
-package hashTable;
+package datastructure.hashTable;
 
 public class ChainingMyHash {
     public Slot[] hashTable;

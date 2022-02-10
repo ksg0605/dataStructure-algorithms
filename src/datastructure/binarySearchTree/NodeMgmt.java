@@ -1,4 +1,4 @@
-package binarySearchTree;
+package datastructure.binarySearchTree;
 
 public class NodeMgmt {
     Node head = null;

@@ -1,4 +1,4 @@
-package array;
+package datastructure.array;
 
 public class PrintArray2 {
     String[] dataset = {

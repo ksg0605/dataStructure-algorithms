@@ -1,7 +1,7 @@
 // 제네릭 문법이 부족하여 제네릭 타입으로 작성 못함
 // 처음에 isEmpty() 메소드를 사용하지 않고 size()를 사용하였다.
 
-package queue;
+package datastructure.queue;
 
 import java.util.ArrayList;
 

@@ -1,6 +1,6 @@
 // 모범답안과 일치함
 
-package array;
+package datastructure.array;
 
 public class PrintArray {
     private Integer[][][] data_list = {

@@ -1,7 +1,7 @@
 // 해시함수에 키값을 넣고 객체의 주소값을 계산한 후 해시테이블을 찾고 그에 맞는 슬롯을 찾는다는 개념을 알면 쉽게 코딩할 수 있다.
-// key - hashFunction - hashTable - slot 의 구조를 이해하면 편하다.
+// key - hashFunction - datastructure.hashTable - slot 의 구조를 이해하면 편하다.
 
-package hashTable;
+package datastructure.hashTable;
 
 public class MyHash {
     public Slot[] hashTable;

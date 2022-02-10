@@ -1,4 +1,4 @@
-package heap;
+package datastructure.heap;
 
 import java.util.ArrayList;
 import  java.util.Collections;

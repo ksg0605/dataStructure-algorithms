@@ -1,6 +1,6 @@
 // 쉽게 해결함
 
-package stack;
+package datastructure.stack;
 
 import java.util.ArrayList;
 

@@ -1,7 +1,7 @@
 // 싱글 링크드 리스트에서 완벽하게 이해하고 넘어왔더니 훨씬 수월하다.
 // 로직 자체는 크게 다를게 없고 그냥 더블링크드리스트의 개념만 알고 있으면 쉽게 작성 가능
 // 그림을 적극적으로 활용하자
-package linkedlist;
+package datastructure.linkedlist;
 
 public class DoubleLinkedList<T> {
     public static void main(String[] args) {

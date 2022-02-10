@@ -1,4 +1,4 @@
-package hashTable;
+package datastructure.hashTable;
 
 public class LinearMyHash {
     public Slot[] hashTable;

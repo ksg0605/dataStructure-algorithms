@@ -1,6 +1,6 @@
 // 쉽게 작성
 
-package array;
+package datastructure.array;
 
 public class MyPrintArray2 {
     String[] dataset = {
