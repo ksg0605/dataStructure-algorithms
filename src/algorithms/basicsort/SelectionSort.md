@@ -1,4 +1,4 @@
-# [알고리즘] 1. Selection Sort : 선택 정렬 (Java)
+# [알고리즘] 2. Selection Sort : 선택 정렬 (Java)
 > 선택 정렬은 최솟값을 찾아 맨 앞으로 보내는 알고리즘이다.
 >
 ![SelectionSort](https://upload.wikimedia.org/wikipedia/commons/9/94/Selection-Sort-Animation.gif)
